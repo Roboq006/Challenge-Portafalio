@@ -1,0 +1,17 @@
+.skills__line{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    
+   
+    
+    
+
+    /*gap: 100px;
+    padding-left: 30px;
+    justify-content: space-around;
+     justify-content: center;
+    gap: 1rem;*/
+    
+
+}

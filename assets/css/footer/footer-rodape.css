@@ -1,0 +1,16 @@
+.footer__rodape{
+    background: #FFFFFF;
+    position: relative;
+    top:2rem;
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+   
+}
+
+
+.footer__rodape p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+

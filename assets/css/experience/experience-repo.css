@@ -1,0 +1,21 @@
+
+
+/*.experience__repo{
+    
+}*/
+
+.experience__repo button {
+    color: #2A7AE4;
+  }
+
+  .experiencia__botao--repo{
+
+    background-color: #F5F5F5;
+    width: 105px;
+    height: 51px;
+    border-color: #ffffff;;
+}
+
+
+/*<span class="experience__repo"><a href="https://github.com"><button class="experiencia__botao--repo">Repositório</button></a></span>*/
+

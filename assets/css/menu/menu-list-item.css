@@ -1,0 +1,19 @@
+.menu__list__item{
+
+    margin-right: 0.9375rem;
+
+
+}
+
+.menu__list__item--activo{
+    color: #333333;
+    font-weight: bold;
+
+
+}
+
+.menu__list__item:hover{
+    text-decoration:underline;
+}
+
+/*0.9375rem;*/
